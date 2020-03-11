@@ -1,0 +1,33 @@
+\begin{thebibliography}{}
+
+\bibitem [\protect \citeauthoryear {%
+Konishi%
+\ \protect \BOthers {.}}{%
+Konishi%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {1999}}%
+}]{%
+konishi:1999ab}
+\APACinsertmetastar {%
+konishi:1999ab}%
+\begin{APACrefauthors}%
+Konishi, S.%
+, Nakajima, K.%
+, Uchida, I.%
+, Kikyo, H.%
+, Kameyama, M.%
+\BCBL {}\ \BBA {} Miyashita, Y.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{1999}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Common inhibitory mechanism in human inferior prefrontal
+  cortex revealed by event-related functional MRI} {Common inhibitory mechanism
+  in human inferior prefrontal cortex revealed by event-related functional
+  mri}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Brain}{122}{5}{981}.
+\PrintBackRefs{\CurrentBib}
+
+\end{thebibliography}
